@@ -7,7 +7,7 @@
  },
   {
    "remote": "github",
-   "repository": "rakeshraimca/pie_oxygen_msm8953-common",
+   "repository": "sarthakmalla/pie_oxygen_msm8953-common",
    "target_path": "device/xiaomi/msm8953-common",
    "branch": "pie"
  },
