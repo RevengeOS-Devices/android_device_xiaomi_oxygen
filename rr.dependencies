@@ -1,19 +1,19 @@
 [
  {
    "remote": "github",
-   "repository": "rakeshraimca/Kernel_xiaomi_oxygen",
-   "target_path": "kernel/xiaomi/oxygen",
-   "branch": "lineage-16"
+   "repository": "blackmiddow/kernel_xiaomi_oxygen",
+   "target_path": "kernel/xiaomi/msm8953",
+   "branch": "vol"
  },
   {
    "remote": "github",
-   "repository": "sarthakmalla/pie_oxygen_msm8953-common",
+   "repository": "blackmiddow/device_xiaomi_msm8953-common",
    "target_path": "device/xiaomi/msm8953-common",
    "branch": "pie"
  },
  {
    "remote": "github",
-   "repository": "rakeshraimca/Vendor_xiaomi_common",
+   "repository": "blackmiddow/vendor_xiaomi_oxygen",
    "target_path": "vendor/xiaomi",
    "branch": "pie"
  }
