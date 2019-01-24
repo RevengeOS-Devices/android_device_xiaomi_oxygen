@@ -70,4 +70,4 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/pixelstyle/etc/sysconfig/google_build.xml:system/etc/sysconfig/google_build.xml
 
 #RR OFFICIAL
-export RR_BUILDTYPE=Official
+export RR_BUILDTYPE=Unofficial
